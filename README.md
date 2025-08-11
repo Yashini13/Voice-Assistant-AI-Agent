@@ -53,6 +53,7 @@ A **voice-enabled real estate assistant made for Real Estate Agents in Dubai** t
      "location": "...",
      "property_type": "...",
      "max_budget": ...,
+     "has_parking": ...
    } 
    
 ## 🔍 Explanation:
@@ -72,6 +73,3 @@ TTS → Converts text response into voice.
 Broker Matching → Finds best broker based on location.
 Lead Storage → Saves the interaction for sales follow-up.
 
-
-     "has_parking": ...
-   }
